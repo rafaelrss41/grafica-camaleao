@@ -60,7 +60,7 @@ header .toogle img
     font-weight: 400;
     font-size: 2.5em;
     letter-spacing:  0.1em;
-    color: #;
+    color: #fff;
 }
 
 .banner .content h2 span{
@@ -125,7 +125,7 @@ header .toogle img
     left: calc(50% - 250px /2);
     width: 250px;
     height: 150px;
-    background: url("animation.png");
+    background: url("../images/animation.png");
     background-size: cover;
     cursor: pointer;
     animation: animate 25s linear infinite;
